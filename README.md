@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreaPuzo
-- 👀 I’m interested in Physics, Maths, Biology & Biotechs (gene editing, CRISPR Cas-9, OMG, ...), Geology, Astronomy (black holes, Universe expansion, ...) and Computer Science (physical and virtual architectures, programming languages, text editors, ...)
+- 👀 I’m interested in Physics, Maths, Biology & Biotechs (gene editing, CRISPR Cas-9, GMO, ...), Geology, Astronomy (black holes, Universe expansion, ...) and Computer Science (physical and virtual architectures, programming languages, text editors, ...)
 - 🌱 I’m currently learning Virtual Machine Architectures
 - 💞️ I’m looking to collaborate on a new Virtual Machine
 - 📫 How to reach me andreapz3010@gmail.com
