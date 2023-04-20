@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndreaPuzo
-- 👀 I’m interested in all natural sciences, especially physics and geophysics, poetry and writing
-- 🌱 I’m currently learning x86-64 architecture (including MMU, FPU, GPU, segments and pages, VA/PA, caches, etc.)
-- 💞️ I’m looking to collaborate on an emulator of CISC architecture
+- 👀 I’m interested in all natural sciences (mainly physics), poetry and writing
+- 🌱 I’m currently learning x86-64 architecture (ALU, FPU, MMU VA/PA, caches, etc.)
+- 💞️ I’m looking to collaborate on an emulator of RISC or CISC architecture
 - 📫 How to reach me andreapz3010@gmail.com
 
 <!---
