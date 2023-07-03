@@ -12,15 +12,13 @@
     <li>👀 I’m interested in all natural sciences (mainly Physics), poetry and writing</li>
     <li>🌱 I’m currently learning x86-64 architecture (ALU, FPU, MMU VA/PA, caches, etc.)</li>
     <li>💞️ I’m looking to collaborate on an emulator of RISC or CISC architecture</li>
-    <li>📫 How to reach me <a href="mailto:andreapz3010@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail"></a></li>
+    <li>📫 How to reach me <a href="mailto:andreapz3010@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat-circle&logo=gmail&logoColor=white" alt="e-mail"></a></li>
     <li>💬 Ask me about what you want</li>
     <li>😄 Pronouns: he/him/his</li>
     <li>⚡ Fun fact: it is a secret, keep the silence</li>
 </ul>
 
-<p align="center">
-  <a href="https://github.com/AndreaPuzo"><img src="https://komarev.com/ghpvc/?username=AndreaPuzo&color=blue&style=flat)" /></a>
-</p>
+<p align="center"><a href="https://github.com/AndreaPuzo"><img src="https://komarev.com/ghpvc/?username=AndreaPuzo&color=blue&style=flat)" /></a></p>
 
 ### Languages
 
