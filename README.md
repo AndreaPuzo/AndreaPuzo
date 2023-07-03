@@ -1,7 +1,6 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-    <b>Welcome on my GitHub page</b><br><br>
     <i>
         I am Andrea, a student<br>
         Open to collaborating on interesting projects<br>
@@ -17,7 +16,7 @@
     </i><br>
     <i>
         This format was inspired by <a href="">Vladimir</a><br>
-    </i><br>
+    </i>
 </p>
 
 ### Languages
