@@ -2,9 +2,6 @@
 
 <p align="center">
     <b>Welcome on my GitHub page</b><br><br>
-    <a href="mailto:andreapz3010@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
     <i>
         I am Andrea, a student<br>
         Open to collaborating on interesting projects<br>
@@ -12,7 +9,7 @@
             <li>👀 I’m interested in all natural sciences (mainly physics), poetry and writing</li>
             <li>🌱 I’m currently learning x86-64 architecture (ALU, FPU, MMU VA/PA, caches, etc.)</li>
             <li>💞️ I’m looking to collaborate on an emulator of RISC or CISC architecture</li>
-            <li>📫 How to reach me andreapz3010@gmail.com</li>
+            <li>📫 How to reach me <a href="mailto:andreapz3010@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail"></a></li>
             <li>💬 Ask me about what you want</li>
             <li>😄 Pronouns: he/him/his</li>
             <li>⚡ Fun fact: it is a secret, keep the silence</li>
