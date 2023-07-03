@@ -2,6 +2,9 @@
 
 <p align="center">
     <b>Welcome on my GitHub page</b><br><br>
+    <a href="mailto:andreapz3010@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
     <i>
         I am Andrea, a student<br>
         Open to collaborating on interesting projects<br>
@@ -17,11 +20,7 @@
     </i><br>
     <i>
         This format was inspired by <a href="">Vladimir</a><br>
-        Open to collaborating on interesting projects<br>
     </i><br>
-    <a href="mailto:andreapz3010@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
 </p>
 
 ### Languages
