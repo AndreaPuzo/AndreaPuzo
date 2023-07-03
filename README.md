@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-    <b>Welcome to my page</b><br><br>
+    <b>Welcome on my GitHub page</b><br><br>
     <i>
-        I'm Andrea<br>
-        Open to collaborating on emulators.<br>
+        I am Andrea, a student<br>
+        Open to collaborating on interesting projects<br>
+        <ul>
+            <li>👀 I’m interested in all natural sciences (mainly physics), poetry and writing</li>
+            <li>🌱 I’m currently learning x86-64 architecture (ALU, FPU, MMU VA/PA, caches, etc.)</li>
+            <li>💞️ I’m looking to collaborate on an emulator of RISC or CISC architecture</li>
+            <li>📫 How to reach me andreapz3010@gmail.com</li>
+            <li>💬 Ask me about what you want</li>
+            <li>😄 Pronouns: he/him/his</li>
+            <li>⚡ Fun fact: it is a secret, keep the silence</li>
+        </ul>
+    </i><br>
+    <i>
+        This format was inspired by <a href="">Vladimir</a><br>
+        Open to collaborating on interesting projects<br>
     </i><br>
     <a href="mailto:andreapz3010@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
@@ -45,16 +58,4 @@
   <a href="https://github.com/AndreaPuzo">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaPuzo&theme=transparent" />
   </a>
-  <!--<a href="https://github.com/AndreaPuzo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaPuzo&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>-->
 </p>
-
-- 👋 Hi, I’m @AndreaPuzo
-- 👀 I’m interested in all natural sciences (mainly physics), poetry and writing
-- 🌱 I’m currently learning x86-64 architecture (ALU, FPU, MMU VA/PA, caches, etc.)
-- 💞️ I’m looking to collaborate on an emulator of RISC or CISC architecture
-- 📫 How to reach me andreapz3010@gmail.com
-- 💬 Ask me about what you want
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: it is a secret, keep the silence
