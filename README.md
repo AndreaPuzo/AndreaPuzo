@@ -10,7 +10,7 @@
     <li>📫 How to reach me <a href="mailto:andreapz3010@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=flat-circle&logo=gmail&logoColor=white" alt="e-mail"></a></li>
     <li>💬 Ask me about what you want</li>
     <li>😄 Pronouns: he/him/his</li>
-    <li>⚡ Fun fact: I'm not that fast at typing on the keyboard</li>
+    <li>⚡ Fun facts: (1) I'm not that fast at typing on the keyboard (2) Too many ideas for one person (3) serial procrastinator</li>
 </ul>
 
 <p align="center"><a href="https://github.com/AndreaPuzo"><img src="https://komarev.com/ghpvc/?username=AndreaPuzo&color=blue&style=flat)" /></a></p>
