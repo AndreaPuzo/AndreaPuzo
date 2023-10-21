@@ -1,7 +1,6 @@
 <h1 align="center">Welcome 👋</h1>
 
-<p align="center"><i>I'm Andrea, a student<br>Open to collaborating on interesting projects about machines<br></i></p>
-<i><b>Note:</b> This page was inspired by <a href="https://github.com/wervlad">Vladimir</a></i><br><br>
+<p align="center"><i>I'm Andrea, a student<br>Open to collaborating on interesting projects<br></i></p>
 
 <ul>
     <li>👀 I’m interested in all natural sciences (mainly Physics and Mathematics), programming, poetry and writing</li>
